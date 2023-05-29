@@ -48,7 +48,7 @@ while True:
         else:
             pass
         if "M" in text[1]:
-            c += 90
+            c += 900
             text = text[1:]
         else:
             pass
